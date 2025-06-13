@@ -85,7 +85,7 @@ Olá, eu sou a Lud, tenho 24 anos e sou de São Paulo. Sou formada em Engenharia
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=LudmilyS&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -93,8 +93,10 @@ Olá, eu sou a Lud, tenho 24 anos e sou de São Paulo. Sou formada em Engenharia
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudmilyS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
+
+
